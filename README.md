@@ -2,7 +2,7 @@
 to be professional programmers :pray:
 
 <span style="color:red">**숙제 리스트**</span>
-| 스터디 날짜 | 문제 | URL |
+| 스터디날짜 | 문제 | URL |
 |:---:|---:|:---|
 | 2020.05.04 | 펙토리얼 |https://level.goorm.io/exam/43192/factorial-%EA%B3%84%EC%8A%B9/quiz/1|
 |  | preorder traversal |https://level.goorm.io/exam/43249/preorder-traversal/quiz/1|
