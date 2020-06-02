@@ -17,6 +17,6 @@ to be professional programmers :pray:
 |  | 동전0 |https://www.acmicpc.net/problem/11047|
 |  | 크게만들기 | https://www.acmicpc.net/problem/2812|
 | 2020.05.29 | 배 | https://www.acmicpc.net/problem/1092|
-|  | PG_썸머코딩CT p1~3 ||
+|  | PG_썸머코딩CT p1~3 | - |
 
 * 숙제 제출기한은 출제한 날짜 이후 다음 스터디 날짜까지이며, 추후 수정가능합니다. 
