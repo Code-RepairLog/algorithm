@@ -1,8 +1,8 @@
 # algorithm
 to be professional programmers :pray:
 
-<span style="color:red">**숙제 리스트**</span>
-| 스터디날짜 | 문제 | URL |
+**숙제 리스트**
+| 날짜 | 문제 | URL |
 |:---:|---:|:---|
 | 2020.05.04 | 펙토리얼 |https://level.goorm.io/exam/43192/factorial-%EA%B3%84%EC%8A%B9/quiz/1|
 |  | preorder traversal |https://level.goorm.io/exam/43249/preorder-traversal/quiz/1|
@@ -18,3 +18,5 @@ to be professional programmers :pray:
 |  | 크게만들기 | https://www.acmicpc.net/problem/2812|
 | 2020.05.29 | 배 | https://www.acmicpc.net/problem/1092|
 |  | PG_썸머코딩CT p1~3 ||
+
+* 숙제 제출기한은 출제한 날짜 이후 다음 스터디 날짜까지이며, 추후 수정가능합니다. 
