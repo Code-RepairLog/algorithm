@@ -18,5 +18,8 @@ to be professional programmers :pray:
 |  | 크게만들기 | https://www.acmicpc.net/problem/2812|
 | 2020.05.29 | 배 | https://www.acmicpc.net/problem/1092|
 |  | PG_CT p1~3 | - |
+| 2020.06.05 | 만취한 상범 |https://www.acmicpc.net/problem/6359|
+|  | 타일채우기3 | https://www.acmicpc.net/problem/14852|
+|  | 계단오르기 | https://www.acmicpc.net/problem/2579|
 
 * 숙제 제출기한은 출제한 날짜 이후 다음 스터디 날짜까지이며, 추후 수정가능합니다. 
