@@ -21,5 +21,8 @@ to be professional programmers :pray:
 | 2020.06.05 | 만취한 상범 |https://www.acmicpc.net/problem/6359|
 |  | 타일채우기3 | https://www.acmicpc.net/problem/14852|
 |  | 계단오르기 | https://www.acmicpc.net/problem/2579|
+| 2020.06.12 | 피보나치 함수 |https://www.acmicpc.net/problem/1003|
+|  | 다리놓기 |https://www.acmicpc.net/problem/1010|
+|  | 동전1 | https://www.acmicpc.net/problem/2293|
 
 * 숙제 제출기한은 출제한 날짜 이후 다음 스터디 날짜까지이며, 추후 수정가능합니다. 
